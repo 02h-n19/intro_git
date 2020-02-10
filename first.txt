@@ -6,3 +6,8 @@ Gitの練習をしていきます。
 ・git status
 ・git log
 ・git rm
+・git log --oneline
+・git log -n 3
+・git log -p first.txt
+・git diff : localとstaging
+・git diff HEAD : localとrepository
