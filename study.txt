@@ -1,6 +1,8 @@
 
 #(local)git add -> (staging_area)
 
-# (local:staging_area)commit -> (server)push
+# (local:staging_area)commit -> (local:repository)
+
+# (local:repository)push -> (server)
 
 # (server)pull（持ってくる）-> (local).
